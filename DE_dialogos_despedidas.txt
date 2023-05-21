@@ -1,0 +1,108 @@
+Bueno, me tengo que ir. ¿Hablamos pronto?
+¡Claro! ¡Hablamos pronto!
+Fue un gusto hablar contigo. ¿Hablamos de nuevo pronto?
+Sí, fue un placer. ¡Hablamos pronto!
+Hasta luego, ¿nos vemos pronto?
+Sí, nos vemos pronto. ¡Hasta luego!
+Nos vemos luego, ¿te parece bien?
+Sí, me parece bien. ¡Nos vemos luego!
+Bueno, me despido por ahora. ¿Te veo después?
+Claro, ¡nos vemos después!
+Hasta la próxima, ¿te parece bien?
+Sí, hasta la próxima. ¡Hasta luego!
+Bueno, me tengo que ir. ¿Hablamos pronto?
+Sí, hablamos pronto. ¡Hasta luego!
+Fue genial hablar contigo. ¿Podemos hablar de nuevo pronto?
+¡Claro! Fue genial hablar contigo también. ¡Hablamos pronto!
+Hasta la vista, ¿nos vemos después?
+Sí, nos vemos después. ¡Hasta la vista!
+Bueno, me despido por ahora. ¿Te veo pronto?
+Claro, ¡te veo pronto!
+Adiós por ahora, ¿te parece bien?
+Sí, adiós por ahora. ¡Hasta pronto!
+Hasta pronto, ¿nos vemos de nuevo pronto?
+Sí, nos vemos de nuevo pronto. ¡Hasta pronto!
+Bueno, me tengo que ir. ¿Hablamos pronto?
+Sí, hablamos pronto. ¡Hasta luego!
+Fue un placer hablar contigo. ¿Podemos hablar de nuevo pronto?
+Sí, fue un placer hablar contigo también. ¡Hablamos pronto!
+Hasta luego, ¿te veo después?
+Claro, ¡nos vemos después!
+Bueno, me despido por ahora. ¿Nos vemos pronto?
+Sí, nos vemos pronto. ¡Hasta luego!
+Hasta la próxima, ¿te parece bien?
+Sí, hasta la próxima. ¡Hasta luego!
+Bueno, me tengo que ir. ¿Hablamos pronto?
+Sí, hablamos pronto. ¡Hasta luego!
+Fue un placer hablar contigo. ¿Podemos hablar de nuevo pronto?
+Sí, fue un placer hablar contigo también. ¡Hablamos pronto!
+Hasta la vista, ¿nos vemos después?
+Sí, nos vemos después. ¡Hasta la vista!
+Bueno, me piro, ¿nos vemos luego?
+¡Sí, nos vemos luego! ¡Hasta la próxima!
+Chao, ¿nos vemos pronto?
+Sí, ¡nos vemos pronto! ¡Hasta la próxima!
+Chau, ¡hasta luego!
+¡Hasta la próxima!
+Me voy, ¡hablamos luego!
+¡Claro! ¡Hablamos luego! ¡Hasta luego!
+Nos vemos, ¿te parece?
+Sí, ¡nos vemos! ¡Hasta luego!
+Me largo, ¿te veo después?
+¡Sí, te veo después! ¡Hasta la próxima!
+Adiós, ¡nos hablamos!
+¡Sí, nos hablamos! ¡Hasta luego!
+Chau, ¿hablamos pronto?
+Sí, hablamos pronto. ¡Hasta la próxima!
+Chau
+¡Hasta la próxima!
+Bye
+¡Hasta la próxima! ¡cuídate!
+Me voy, ¡cuídate!
+¡Claro! ¡Cuídate también! ¡Hasta luego!
+Hasta luego, ¡nos vemos pronto!
+Sí, nos vemos pronto. ¡Hasta luego!
+Me largo, ¡hasta la próxima!
+Sí, ¡hasta la próxima! ¡Nos vemos pronto!
+Fue un placer hablar contigo. ¡Que tengas un buen día!
+¡Gracias! Igualmente.
+Nos vemos pronto. ¡Hasta luego!
+¡Hasta luego!
+Bueno, me tengo que ir. ¡Adiós!
+¡Adiós!
+Gracias por tu ayuda. ¡Nos vemos!
+¡No hay problema! ¡Hasta luego!
+¡Hasta mañana!
+Nos vemos pronto. ¡Hasta mañana!
+Ha sido un placer conocerte. ¡Hasta pronto!
+¡Igualmente! ¡Hasta pronto!
+Bueno, me tengo que ir. ¡Cuídate!
+¡Cuídate tú también!
+Muchas gracias por todo. ¡Hasta la próxima!
+¡Gracias a ti! ¡Hasta la próxima!
+Me alegra haberte podido ayudar. ¡Hasta luego!
+¡Gracias por todo! ¡Hasta luego!
+Ha sido un placer charlar contigo. ¡Hasta pronto!
+¡Igualmente! ¡Hasta pronto!
+Bueno, me voy ya. ¡Hasta la próxima!
+¡Hasta la próxima!
+Gracias por tu tiempo. ¡Hasta luego!
+¡No hay de qué! ¡Hasta luego!
+Me alegro de haberte conocido. ¡Hasta pronto!
+¡Igualmente! ¡Hasta pronto!
+Fue un gusto hablar contigo. ¡Hasta la próxima!
+¡Igualmente! ¡Hasta la próxima!
+Gracias por tu ayuda. ¡Nos vemos!
+¡No hay problema! ¡Nos vemos!
+Ha sido un placer tratar contigo. ¡Hasta pronto!
+¡Igualmente! ¡Hasta pronto!
+Bueno, me voy ya. ¡Cuídate!
+¡Cuídate tú también!
+Muchas gracias por todo. ¡Hasta la próxima!
+¡Gracias a ti! ¡Hasta la próxima!
+Ha sido genial charlar contigo. ¡Hasta pronto!
+¡Igualmente! ¡Hasta pronto!
+Bueno, me tengo que ir ya. ¡Hasta la próxima!
+¡Hasta la próxima!
+Gracias por todo. ¡Hasta luego!
+¡No hay de qué! ¡Hasta luego!
